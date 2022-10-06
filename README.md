@@ -1,7 +1,7 @@
 GDSC Task1 
 
 
-Portfolio ##heading
+Portfolio 
 
 ![Screenshot_1665069082](https://user-images.githubusercontent.com/105243398/194386532-265abc44-f6b9-4e1a-8dc6-1f7b030ebc32.png)
 
